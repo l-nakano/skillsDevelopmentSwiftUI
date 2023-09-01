@@ -25,11 +25,12 @@ At the end, in the [Results and Analysis section](#results-and-analysis), indica
 > [!NOTE]  
 > Check the cases that were tested.
 
----
-
-- [ ] Shopping Cart
 <details>
-  <summary>Checklist</summary>
+  <summary>Testing cases</summary>
+
+  - [ ] Shopping Cart
+  <details>
+    <summary>Checklist</summary>
 
   ## Preconditions and Important Information
 
@@ -50,13 +51,13 @@ At the end, in the [Results and Analysis section](#results-and-analysis), indica
   |<ul><li>[ ] </li></ul>|Tapped to change an item quantity|![Cart Flow 3](/docs/guide/assets/images/release-process/Cart/CartFlow3.png)|
   |<ul><li>[ ] </li></ul>|Changed the item quantity (if available) or dismissed the modal by clicking outside it||
   |<ul><li>[ ] </li></ul>|Went to check out (it needs to advance only one screen to test the push action)|![Cart Flow 4](/docs/guide/assets/images/release-process/Cart/CartFlow4.png)|
-</details>
+  </details>
 
----
+  ---
 
-- [ ] Insurtech - Messages
-<details>
-  <summary>Checklist</summary>
+  - [ ] Insurtech - Messages
+  <details>
+    <summary>Checklist</summary>
 
   ## Preconditions and Important Information
 
@@ -87,9 +88,8 @@ At the end, in the [Results and Analysis section](#results-and-analysis), indica
   |<ul><li>[ ] </li></ul>|Selected the option “Me roubaram com violência ou sob ameaça”|![Insurtech Messages DA Flow 3](/docs/guide/assets/images/release-process/Insurtech/Messages/InsurtechMessagesDAFlow3.png)|
   |<ul><li>[ ] </li></ul>|Selected the option “Enviar o BO”|![Insurtech Messages DA Flow 4](/docs/guide/assets/images/release-process/Insurtech/Messages/InsurtechMessagesDAFlow4.png)|
   |<ul><li>[ ] </li></ul>|Attached a PDF or Image file|![Insurtech Messages DA Flow 5](/docs/guide/assets/images/release-process/Insurtech/Messages/InsurtechMessagesDAFlow5.png)|
+  </details>
 </details>
-
----
 
 ### Results and Analysis
 > [!NOTE]  
